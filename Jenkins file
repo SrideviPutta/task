@@ -10,7 +10,7 @@ pipeline {
         sonar_url='http://172.31.40.184:9000'
         sonar_username='admin'
         sonar_password='admin'
-        nexus_url='http://172.31.40.184:8081'
+        nexus_url='172.31.40.184:8081'
         artifact_version='4.0.0'
  
  }
